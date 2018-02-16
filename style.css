@@ -1,0 +1,94 @@
+
+body {overflow-x: hidden;}
+
+
+/*
+Jumbotron style
+*/
+#call {
+  color: #FFFFFF;
+  font-weight: bold;
+}
+.navbar {
+  margin-bottom: 0px;
+  margin-right: 0px;
+}
+#big {
+  background-color: #1abc9c;
+}
+
+#space1 {
+  height: 45px;
+  background-color: #1abc9c;
+}
+
+.space {
+  margin-top: 1%;
+  font-weight: bold;
+  text-align: center;
+}
+
+.heading {
+  font-weight: bold;
+}
+
+.icon-size {
+  font-size: 40px;
+}
+
+#would {
+  margin-top: 4%;
+  font-weight: bold;
+  text-align: center;
+}
+
+#buttonn {
+  align-content: flex-end;
+}
+
+#footer {
+  margin-top: 3%;
+  background-color: #0e1717;
+  color: #FFFFFF;
+}
+
+.footer-inner {
+  margin-top: 2%;
+  margin-bottom: 1%;
+}
+
+hr{
+    /* padding: 0px; */
+    margin: 0px;
+  }
+
+#links {
+  font-size: 25px;
+}
+
+#link-text {
+  font-weight: bold;
+}
+
+#thumbs {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+#social {
+  font-size: 50px;
+}
+
+#subscribe {
+  font-size: 25px;
+}
+
+#last-strip {
+  background-color: #040707;
+  color: #FFFFFF;
+}
+
+.footer-strip-inner {
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
